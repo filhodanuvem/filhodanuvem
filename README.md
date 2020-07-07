@@ -1,4 +1,4 @@
-### Hey, I'm Claudson! 
+### Hey, I'm Claudson! 👋🏾
 
 I'm a Software Engineer, I'm a Brazilian but living in Portugal since 2018. 
 
