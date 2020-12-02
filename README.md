@@ -10,4 +10,4 @@ Currently I'm focused on
 - Studying Clojure, Kafka and k8s for my position at @ovotech
 - 👨🏾‍💻 [Studying Golang](https://github.com/filhodanuvem?tab=repositories&q=&type=&language=go) 
 - 📹 My portuguese [YouTube channel](https://youtube.com/filhodanuvem/)
-- Creating content about Tech in Portugal 🇵🇹 for the project [Quero Programar em Portugal](https://queroprogramaremportugal.com.br/)
+- Creating content about Tech in Portugal 🇵🇹 for the project [Dev em Portugal](https://devemportugal.com/)
