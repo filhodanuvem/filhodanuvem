@@ -7,6 +7,7 @@
 I'm a Brazilian Software Engineer living in Portugal since 2018. 
 
 Currently I'm focused on
-- 👨🏾‍💻 [Studying Golang](https://github.com/filhodanuvem?tab=repositories&q=&type=&language=go) 
+- 👨🏾‍💻 Studying Software architect
 - 📹 My portuguese [YouTube channel](https://youtube.com/filhodanuvem/)
-- Creating content about Tech in Portugal 🇵🇹 for the project [Dev em Portugal](https://devemportugal.com/)
+- Helping people to understand, and get approved as a [Dev em Portugal](https://devemportugal.com/) (*Developer in Portugal*)
+- 
