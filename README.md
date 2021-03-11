@@ -7,7 +7,7 @@
 I'm a Brazilian Software Engineer living in Portugal since 2018. 
 
 Currently I'm focused on
+- Creating and solving bugs at [@ovotech](https://github.com/orgs/ovotech/)
 - 👨🏾‍💻 Studying Software architect
 - 📹 My portuguese [YouTube channel](https://youtube.com/filhodanuvem/)
 - Helping people to understand, and get approved as a [Dev em Portugal](https://devemportugal.com/) (*Developer in Portugal*)
-- 
