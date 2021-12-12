@@ -8,6 +8,6 @@ Software Engineer.
 Based in Portugal since 2018. 🇵🇹
 
 In progress work:
-- 👨🏾‍💻 Studying Software architect
+- 👨🏾‍💻 Studying [devops tools](https://github.com/filhodanuvem/from-dev-to-ops) 
 - 📹 My portuguese [YouTube channel](https://youtube.com/filhodanuvem/)
 - Helping people to understand, and get approved as a [Dev em Portugal](https://devemportugal.com/) (*Developer in Portugal*)
