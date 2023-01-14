@@ -9,8 +9,9 @@ Lisbon, Portugal 🇵🇹
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/cloudson/)](https://www.linkedin.com/in/cloudson/)
 
 #### ▶️ Work in progress:
-- Publishing videos on my portuguese [YouTube channel](https://youtube.com/filhodanuvem/). 
-- Creating a gym for software engineers 😛.  
+- Building [Devgym](https://devgym.com.br) in public.    
+- Videos on my portuguese [YouTube channel](https://youtube.com/filhodanuvem/). 
+
 
 #### 📘 Latest books: 
 - ["100 Go Mistakes: How to Avoid Them" by Teiva Harsanyi](https://amzn.to/3Eubuqr)
