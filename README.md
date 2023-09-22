@@ -4,9 +4,9 @@ Indie Hacker | Software Engineer <br>
 
 ## 🚀 Projects 
 
-Building a place where software engineers can do workouts via tech challenges: 
+Building a place where software engineers can do workouts via tech challenges, [https://devgym.com.br](https://devgym.com.br?utm_campaign=ghprofile&utm_medium=social&utm_source=github): 
 
-[![](https://app.devgym.com.br/assets/images/logo-black.png)](https://devgym.com.br)
+[![](https://app.devgym.com.br/assets/images/logo-black.png)](https://devgym.com.br?utm_campaign=backchal&utm_medium=social&utm_source=github)
 
 
 ## 🚶🏾‍♂️ Follow me on
