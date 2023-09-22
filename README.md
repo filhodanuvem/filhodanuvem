@@ -23,6 +23,7 @@ Building a place where software engineers can do workouts via tech challenges:
 
 ## 📹 Youtube Videos 
 
+- [Criando uma startup SAAS com programação](https://youtu.be/sndDBWoK6wA)
 - [Melhorando a performance de uma API em Go #rinhaDeBackend](https://youtu.be/Z4KNilvx8Pk)
 - [Fazendo deploy de um projeto real em Golang](https://www.youtube.com/watch?v=3QUlu2Xktic&list=PLzehOqhpwpxg3t70bv1HOiUey5JMMMi9u)
 - [Criando uma Arquitetura de Software para um Encurtador de URL](https://www.youtube.com/watch?v=Tb5b8T1t9t4&list=PLzehOqhpwpxhHWUtiFhxHB4OrQGQe8LKN)
