@@ -2,17 +2,10 @@
 Indie Hacker | Software Engineer <br>
 📌 Lisbon, Portugal
 
-## 🚀 Projects 
-
-Building a place where software engineers can do workouts via tech challenges, [https://devgym.com.br](https://devgym.com.br?utm_campaign=ghprofile&utm_medium=social&utm_source=github): 
-
-[![](https://app.devgym.com.br/assets/images/logo-black.png)](https://devgym.com.br?utm_campaign=backchal&utm_medium=social&utm_source=github)
-
 
 ## 🚶🏾‍♂️ Follow me on
 
 [![YouTube Badge](https://img.shields.io/badge/-Youtube-c14438?style=flat-square&labelColor=c14438&logo=youtube&logoColor=white&link=https://youtube.com/filhodanuvem)](https://youtube.com/filhodanuvem)
-[![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/filhodanuvem)](https://twitter.com/filhodanuvem)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/cloudson/)](https://www.linkedin.com/in/cloudson/)
 
 
